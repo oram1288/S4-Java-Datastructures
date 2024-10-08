@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab3507e-9110-43e5-9ee4-3367a1a14f08" name="Changes" comment="Question1" />
+    <list default="true" id="dab3507e-9110-43e5-9ee4-3367a1a14f08" name="Changes" comment="Question1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DoubleLinkedList/UndoRedoManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stacks/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stacks/StackArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,19 +48,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.MainApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MovieTheatreQ3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SingleDimension.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UsingArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/keyinstudent/DataStructures-Algorithms/S4-Java-Datastructures&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainApp.executor": "Run",
+    "Application.MovieTheatreQ3.executor": "Run",
+    "Application.SingleDimension.executor": "Run",
+    "Application.UndoRedoManager.executor": "Run",
+    "Application.UsingArrayList.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/keyinstudent/DataStructures-Algorithms/S4-Java-Datastructures"
   }
-}</component>
-  <component name="RunManager" selected="Application.MainApp">
+}]]></component>
+  <component name="RunManager" selected="Application.UndoRedoManager">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.MainApp" />
       <module name="S4-Java-Datastructures" />
@@ -95,6 +101,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UndoRedoManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoubleLinkedList.UndoRedoManager" />
+      <module name="S4-Java-Datastructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DoubleLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UsingArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayList.UsingArrayList" />
       <module name="S4-Java-Datastructures" />
@@ -110,6 +129,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UndoRedoManager" />
         <item itemvalue="Application.MainApp" />
         <item itemvalue="Application.MovieTheatreQ3" />
         <item itemvalue="Application.UsingArrayList" />
