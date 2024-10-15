@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab3507e-9110-43e5-9ee4-3367a1a14f08" name="Changes" comment="Question1" />
+    <list default="true" id="dab3507e-9110-43e5-9ee4-3367a1a14f08" name="Changes" comment="Question1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Queues/AnimalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Queues/AnimalShelterQ4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Queues/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Queues/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Queues/QueueArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Queues/QueueLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stacks/StackLinkedlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,19 +52,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.MainApp.executor": "Run",
-    "Application.MovieTheatreQ3.executor": "Run",
-    "Application.SingleDimension.executor": "Run",
-    "Application.UndoRedoManager.executor": "Run",
-    "Application.UsingArrayList.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/keyinstudent/DataStructures-Algorithms/S4-Java-Datastructures"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MainApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MovieTheatreQ3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleDimension.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UndoRedoManager.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/keyinstudent/DataStructures-Algorithms/S4-Java-Datastructures&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.UndoRedoManager">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.MainApp" />
