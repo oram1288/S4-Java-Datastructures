@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dab3507e-9110-43e5-9ee4-3367a1a14f08" name="Changes" comment="Question1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Queues/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Queues/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Queues/QueueLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Queues/QueueLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Stacks/StackLinkedlist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Queues/AnimalMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Queues/AnimalMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Queues/AnimalShelterQ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Queues/AnimalShelterQ4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

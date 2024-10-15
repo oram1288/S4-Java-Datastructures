@@ -90,7 +90,10 @@ public class AnimalShelterQ4 {
     // Adopt the oldest dog
     public Dog dequeueDog() {
         if (!dogs.isEmpty()) {
-            return dogs.poll();
+            if (dogs.size() > 1) {
+                System.out.println("You must adopt the oldest dog.");
+            }
+            return dogs.poll(); // Remove and return the oldest dog
         }
         return null;
     }
@@ -98,7 +101,10 @@ public class AnimalShelterQ4 {
     // Adopt the oldest cat
     public Cat dequeueCat() {
         if (!cats.isEmpty()) {
-            return cats.poll();
+            if (cats.size() > 1) {
+                System.out.println("You must adopt the oldest cat.");
+            }
+            return cats.poll(); // Remove and return the oldest cat
         }
         return null;
     }

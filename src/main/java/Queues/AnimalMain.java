@@ -17,10 +17,10 @@ public class AnimalMain {
         // Dequeue a Cat (Should adopt the oldest cat, Whiskers)
         System.out.println("Adopted: " + shelter.dequeueCat().getName());
 
-        // Dequeue a Dog (Should adopt the next dog, Fido)
-        System.out.println("Adopted: " + shelter.dequeueDog().getName());
-
         // Dequeue Any (Should adopt the only remaining animal, Luna the cat)
+        System.out.println("Adopted: " + shelter.dequeueAny().getName());
+
+        // Dequeue a Dog (Should adopt the next dog, Fido)
         System.out.println("Adopted: " + shelter.dequeueAny().getName());
     }
 }
