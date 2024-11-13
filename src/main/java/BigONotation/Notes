@@ -1,0 +1,6 @@
+Time complexity:
+    1. Linear time -> O(n)
+    2. Constant time -> O(1)
+    3. Quadratic time -> 0(n^2)
+
+ - can have a single array or a 2D array

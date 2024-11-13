@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab3507e-9110-43e5-9ee4-3367a1a14f08" name="Changes" comment="Question1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BigONotation/BigONotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/FibonacciIterative.java" afterDir="false" />
+    <list default="true" id="dab3507e-9110-43e5-9ee4-3367a1a14f08" name="Changes" comment="class code">
+      <change afterPath="$PROJECT_DIR$/src/main/java/BigONotation/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BigONotation/NumbersQ5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +54,7 @@
     "Application.FibonacciIterative.executor": "Debug",
     "Application.MainApp.executor": "Run",
     "Application.MovieTheatreQ3.executor": "Run",
+    "Application.NumbersQ5.executor": "Run",
     "Application.SingleDimension.executor": "Run",
     "Application.UndoRedoManager.executor": "Run",
     "Application.UsingArrayList.executor": "Run",
@@ -67,7 +67,12 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Factorial">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/BigONotation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NumbersQ5">
     <configuration name="AnimalMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Queues.AnimalMain" />
       <module name="S4-Java-Datastructures" />
@@ -107,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.MainApp" />
+    <configuration name="NumbersQ5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BigONotation.NumbersQ5" />
       <module name="S4-Java-Datastructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="BigONotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumbersQ5" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.FibonacciIterative" />
         <item itemvalue="Application.AnimalMain" />
         <item itemvalue="Application.UndoRedoManager" />
-        <item itemvalue="Application.MainApp" />
       </list>
     </recent_temporary>
   </component>
@@ -176,12 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726453831795</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="class code">
+      <option name="closed" value="true" />
+      <created>1730853343789</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730853343790</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Question1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Question1" />
+    <MESSAGE value="class code" />
+    <option name="LAST_COMMIT_MESSAGE" value="class code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
