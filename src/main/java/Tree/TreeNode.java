@@ -11,8 +11,8 @@ public class TreeNode {
         this.children = new ArrayList<>();
     }
 
-    public addChild () {
-
+    public void addChild (TreeNode node) {
+        this.children.add(node);
     }
 
     private String repeat(String str, int count) {
@@ -25,12 +25,31 @@ public class TreeNode {
 
     public String print(int level) {
         String ret;
-        ret = repeat("", level) + data + "\n";
-        for ()
+        ret = repeat(" ", level) + data + "\n";
+        for (TreeNode node : this.children) {
+            ret += node.print(level + 1);
+        }
+        return ret;
     }
 
     public static void main(String[] args) {
         TreeNode drinks = new TreeNode("Drinks:");
+        TreeNode  hot = new TreeNode("Hot:");
+        TreeNode cold = new TreeNode("Cold:");
+        TreeNode tea = new TreeNode("Tea:");
+        TreeNode coffee = new TreeNode("Coffee");
+        TreeNode nonAlcohol = new TreeNode("Non-Alcohol:");
+        TreeNode alcohol = new TreeNode("Alcohol:");
+        TreeNode greenTea = new TreeNode("Green Tea");
+        TreeNode herbalTea = new TreeNode("Herbal Tea");
+        tea.addChild(greenTea);
+        tea.addChild(herbalTea);
+        hot.addChild(tea);
+        hot.addChild(coffee);
+        cold.addChild(nonAlcohol);
+        cold.addChild(alcohol);
+        drinks.addChild(hot);
+        drinks.addChild(cold);
 
         System.out.println(drinks.print(0));
     }

@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dab3507e-9110-43e5-9ee4-3367a1a14f08" name="Changes" comment="class code">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BigONotation/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BigONotation/NumbersQ5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tree/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +54,7 @@
     "Application.MovieTheatreQ3.executor": "Run",
     "Application.NumbersQ5.executor": "Run",
     "Application.SingleDimension.executor": "Run",
+    "Application.TreeNode.executor": "Run",
     "Application.UndoRedoManager.executor": "Run",
     "Application.UsingArrayList.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -72,7 +71,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/BigONotation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumbersQ5">
+  <component name="RunManager" selected="Application.TreeNode">
     <configuration name="AnimalMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Queues.AnimalMain" />
       <module name="S4-Java-Datastructures" />
@@ -125,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UndoRedoManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoubleLinkedList.UndoRedoManager" />
+    <configuration name="TreeNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.TreeNode" />
       <module name="S4-Java-Datastructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DoubleLinkedList.*" />
+          <option name="PATTERN" value="Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeNode" />
         <item itemvalue="Application.NumbersQ5" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.FibonacciIterative" />
         <item itemvalue="Application.AnimalMain" />
-        <item itemvalue="Application.UndoRedoManager" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730853343790</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="class code">
+      <option name="closed" value="true" />
+      <created>1731457752593</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731457752593</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
