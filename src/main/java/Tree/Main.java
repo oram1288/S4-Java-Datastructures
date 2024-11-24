@@ -31,6 +31,9 @@ public class Main {
         N4.right = N9;
         binaryTreeLL.root = N1;
 
+//        binaryTreeLL.preOrder(binaryTreeLL.root);
+//        binaryTreeLL.inOrder(binaryTreeLL.root);
         binaryTreeLL.postOrder(binaryTreeLL.root);
+        binaryTreeLL.search("N5");
     }
 }
