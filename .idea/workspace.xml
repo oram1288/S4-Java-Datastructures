@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dab3507e-9110-43e5-9ee4-3367a1a14f08" name="Changes" comment="class code">
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearchTree/BinaryChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearchTree/BinaryNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearchTree/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearchTree/CheckerNodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearchTree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearchTree/Validator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Tree/BinaryTreeLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tree/BinaryTreeLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tree/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,29 +52,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AnimalMain.executor": "Debug",
-    "Application.Factorial.executor": "Debug",
-    "Application.FibonacciIterative.executor": "Debug",
-    "Application.Main.executor": "Run",
-    "Application.MainApp.executor": "Run",
-    "Application.MovieTheatreQ3.executor": "Run",
-    "Application.NumbersQ5.executor": "Run",
-    "Application.SingleDimension.executor": "Run",
-    "Application.TreeNode.executor": "Run",
-    "Application.UndoRedoManager.executor": "Run",
-    "Application.UsingArrayList.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/keyinstudent/DataStructures-Algorithms/S4-Java-Datastructures",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AnimalMain.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FibonacciIterative.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MovieTheatreQ3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumbersQ5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleDimension.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeNode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UndoRedoManager.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/keyinstudent/DataStructures-Algorithms/S4-Java-Datastructures&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/BigONotation" />
@@ -216,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732149613724</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="class code">
+      <option name="closed" value="true" />
+      <created>1732480021190</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732480021190</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
